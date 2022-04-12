@@ -177,4 +177,17 @@ El niño empieza a reconocer las diferencias entre él y sus compañeros de clas
 Al acercarse a los 2 años, el niño empezará a prever cómo la gente evaluará su desempeño; busca reconocimiento por sus logros y espera desaprobación cuando fracasa. A esta edad ya catalogan los resultados como "éxito" o "fracaso", además de haber aprendido que otras personas reaccionarán de un modo u otro dependiendo del resultado.
 
 A los 3 años, el niño empieza a reaccionar de modo más independiente a sus resultados; ya no necesita que otros le informen tanto de si lo ha hecho bien o no, puesto que puede saberlo por sí mismo.
+
+Los niños que a menudo reciben críticas por su falta de capacidad adoptan _metas de desempeño_ en lugar de _metas de aprendizaje_, corriendo el riesgo de eventualmente adquirir indefensión aprendida. Los niños poco capaces a menudo pueden ser "reprogramados" para orientarse más al dominio cuando se les enseña (mediante el reentrenamiento en atribución) que sus fracasos puede deberse a causas inestables que pueden superar con un mayor esfuerzo.
+
+##### Identidad personal
+
+El establecimiento de la identidad tarda mucho tiempo; no es hasta la adolescencia tardía/años universitarios que los jóvenes conquistan el sentimiento de identidad. Es además un proceso poco uniforme que puede continuar durante toda la vida.
+
+Al menos cuatro factores influyen en el progreso del adolescente en la obtención de la identidad: desarrollo cognoscitivo, relaciones con los padres, instrucción escolar y el contexto sociocultural en el que vive.
+
+A día de hoy, las tecnologías modernas permiten explorar y modificar la identidad de un modo que no era posible hasta entonces.
+
+#### Cognición social
+
 (Resumen cap: p. 540)
