@@ -8,12 +8,12 @@ Estas teorías postulan que cualquier comportamiento puede ser aprendido, y que 
 
 El condicionamiento operante está en la base de muchos programas de educación y aprendizaje tanto para humanos como otros animales. Se basa en la modificación de la conducta emitida de forma voluntaria mediante la manipulación de las consecuencias de dicha conducta. El castigo (la presentación de un estímulo aversivo ante la conducta) puede tener consecuencias indeseadas, por lo que no es el modo recomendado para extinguir una conducta. Estas consecuencias pueden ser:
 
-    - Provocar agresividad, ansiedad, etc en el niño
-    - Asociar el castigo a la persona que lo realiza, llevando así a la evitación de la persona en sí
-    - Reducir en su totalidad un tipo de conducta que en ocasiones es apropiada
-    - Presentar modelos agresivos que el niño puede acabar imitando
-    - Elimina la conducta inapropiada, pero sin enseñar una alternativa apropiada
-    - Crea adicción
+- Provocar agresividad, ansiedad, etc en el niño
+- Asociar el castigo a la persona que lo realiza, llevando así a la evitación de la persona en sí
+- Reducir en su totalidad un tipo de conducta que en ocasiones es apropiada
+- Presentar modelos agresivos que el niño puede acabar imitando
+- Elimina la conducta inapropiada, pero sin enseñar una alternativa apropiada
+- Crea adicción
 
 El refuerzo en condicionamiento operante puede ser continuo o parcial. Comenzar con un refuerzo continuo y paulatinamente ir pasando a uno parcial es el mejor modo de establecer o extinguir una conducta.
 
