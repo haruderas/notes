@@ -125,3 +125,5 @@ Three contexts need to be considered to understand media violence (Shaw, 2001):
 Media effects research has been using inappropiate stimuli for a long time. Might be interesting to ask the _creators_ of the violent material how do they think it works, and why they put it all together the way they do.
 
 ## Prosocial Effects of Media
+
+(pg. 72)
