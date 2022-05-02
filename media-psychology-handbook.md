@@ -126,4 +126,53 @@ Media effects research has been using inappropiate stimuli for a long time. Migh
 
 ## Prosocial Effects of Media
 
-(pg. 72)
+Tales of prosocial effects of media suggest ways of communicating socially useful material without dressing it up as education.
+
+Much of the psychological literature on media is somewhat _reactive_; there are many studies of the effects of violent media, but relatively few examining the effects of other kinds of media, even though they should ostensibly share certain characteristics.
+
+At low levels, perceptual and cognitive responses to televisual stimuli should hold true whatever the programme content; at higher levels, processes such as identification and parasocial interaction with media figures, or comprehension of story lines and the "reading" of generic and formulaic media styles, should shape understandings and responses to all televised material.
+
+An important difference between the antisocial and prosocial effects of media is that the former are almost invariably accidental. Probably no media producer has ever deliberately set out to produce antisocial effects, but they frequently set out to create material that will have positive long-term benefits on consumers, whether it be a soap opera storyline that informs viewers about health issues, or an educational programme for children.
+
+### The "effects" research tradition
+
+What is "prosocial behavior"? Whereas studies of media and antisocial behavior have concentrated on aggression and violence, studies of prosocial and behavior have been more diverse. The most heavily researched behavior is _altruism_, or helping, frequently studied using experimental methods. Less easily researched behaviors include _sharing_ and _empathy_.
+
+Studies of viewer empathy have produced a mixture of findings. On of them (Zillman & Bryant, 1975) suggests that empathy is strongly determined by character judgements, usually involving some degree of moral evaluation. Increasingly, the relatives of victims of murder and other unlawful deaths ar invited to give press conferences, because the police are well aware of the emphatic impact of television, and the resultant increased likelihood of members of the public coming forward with useful information.
+
+Thus far, the effects for prosocial effects of media is mixed. One problem is that, as with violent content, prosocial content is usually embedded deep within the narrative context of a dramatic prodution, so we can't quite classify a program as "prosocial".
+
+### The effects of "prosocial media"
+
+_Sesame street_ has been the focus of most of the research into educational media, as it was designed with prosocial aims in mind. Rice, Houston, Truglio and Wright (1990) found that Sesame Street viewing was a good predictor of vocabulary knowledge at ages 3 and 5, but older children did not get this benefit; those still watching at ages 6 and 7 were more likely to be slow learners. The authors explained this in terms of __quick incidental learning__, which is more effective with 3-year-olds than 5-year-olds. It was also found that the group of children who benefited the most from wtching the show were those with higher socioeconomic status, which might be explained by the finding that _parental mediation_ (discussion between parents and children about the show's contents) enhances the effect of viewing.
+
+The belief that watching television is passive activity from which it's impossible for children to elarn anything has prevented greater use of television as an educational medium, but it's clear que a los of verbal and gestural material in children has its roots in audiovisual content.
+
+Whether or not media produce the psychological effects claimed by many social scientists, there is no doubt that they are invaluable menas of communicating information, whether it is promoting desirable behavior, communicating health messages, etc. How effectve those campaings are depends on the type of information being communicated. In a couple of studies that backfired (in that they _decreased_ self-efficacy related to the desired behavior among the group they were targeting), it's been suggested that the use of negative health messaged backfired: rather than shaming the public into changing their behavior, it inadvertedly provided them with a readly available set of excused for _not_ changing their behavior.
+
+This study raises a commin problem with using psychology for health communication and other public service announcements: media material is often devised by educated, middle-class people whose idea of a persuasive message may not ring true with the public at large. Of course, there are instancs in which health communication in the media has been at odds with other media representations of health behavior; smoking is possibly the best example of a true media effect.
+
+In many parts of the world, information about social issues is embedded within popular drama. Prosocial soaps follow the sam broad structure as do soaps in Europe and North America, except that the storylines are explicitly prosocial; even in the West soaps often feature storylines that are intended to educate as much as entertain. There is always some doubt about the effectiveness of such shows, as long-standing attitudes may be resistant to change. Getting the message may require viewers to do a critical reading of the media text, and audiences are often not as sophisticated as producers assume they are. Media psychologists need to study the meanings that media hold for audiences, rather than assuming that their effects are homogenous. Nevertheless, the findings from global soap operas indicate that, when positive social messages are embedded in narrative texts, they can have a substantial impact, even if only on public awareness of important issues.
+
+### Parental mediation
+
+Parental mediation is, at its simplest, the idea of a parent as a coviewer of content with the child. Rather than leaving the child "vulnerable" to the unmediated influence of undesired material, when the adult views television with the child there is an opportunity to discuss and explain some of the more disturbing material, and to consolidate the prosocial or educational content. Despite the fears, children are much mure likely to view adult material when coviewing with an adult; in other words, it is the adults who make the decisions about viewing material. However, it might be that coviewing tends to be incidental.
+
+The view of many parents is that the only way to prevent children from watching undesirable media is to simply prohibit viewing. An study found that, in their sample, restricted viewers generally saw less of everything - rather than controlling the _quality_ of television their children watch, restrictive parents simply control the _quantity_. There are several problems with blanket restrictions on viewing: policing exposire to undesirable media is virtually impossible, and the "forbidden fruit" effect may be stronger for children whose media use is subject to such censure. Given the easy access to media children have today, the need for parents and children to share viewing experiences assumes greater importance than in the past. Simple coviewing isn't the answer: effective mediation requires parents to discuss the programme content with the child, perhaps explain ambiguous or disturbing material, or follow up on concepts from the viewing session.
+
+Not only has parental mediation been found to enhance the learning effect, it's also possible to blunt the negative effects of television by discussing the relevant issues. When using mediators of either gender, certain types of content can effect huge decreases in school children's stereotypical attitudes, whereas watching alone actually produced a small increase. With older children (11 or 12), mediation still had a powerful effect, but there was also a decrease when viewing alone, suggesting that by this age children are able to process the prosocial message without adult help. It has been suggested that children as young as 7 are able to understand quite complex moral messages contained in sitcom storylines).
+
+There might be both different styles of mediation for different material, as well as differences between the mediators themselves. A study using telephone survey identified four mediation styles:
+
+- _Nonmediators_, who might coview with children but never discuss content.
+- _Optimists_, whose mediation consists of mostly positive comments about the content, and who tend to be generally trusting of television.
+- _Pessimists_, who make generally negative or sceptical comments to their children, and tend to be generally distrustful of television.
+- _Selectives_, which have a more or less equal balance of negative and positive contributions.
+
+Simple coviewing and prohibitive viewing are largely ineffective means of modifying children's interpretation of television. The nature of parent-child discussions about television are therefore likely to rely heavily on parental attitudes toward the media, and on existing communication patterns within families and on general parental style.
+
+### Conclusion
+
+Identifying and isolating prosocial content in standard media is much harder than coding acts of violence and aggression - not because it isn't there, but because it has to be understood and interpreted in its narrative context. Slowly, media violence researchers are appreciating that the same is true of violent content.
+
+The mixed success in communicating prosocial media messages - attempting to change negative aspects of health behavior, or unacceptable attitudes - highlights the variety of "readings" that are open to media users, and indicates the need for more carefully targeted campaigns. Multiple readings exist for all forms of media message, not only the prosocial ones.
