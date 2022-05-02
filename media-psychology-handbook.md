@@ -176,3 +176,69 @@ Simple coviewing and prohibitive viewing are largely ineffective means of modify
 Identifying and isolating prosocial content in standard media is much harder than coding acts of violence and aggression - not because it isn't there, but because it has to be understood and interpreted in its narrative context. Slowly, media violence researchers are appreciating that the same is true of violent content.
 
 The mixed success in communicating prosocial media messages - attempting to change negative aspects of health behavior, or unacceptable attitudes - highlights the variety of "readings" that are open to media users, and indicates the need for more carefully targeted campaigns. Multiple readings exist for all forms of media message, not only the prosocial ones.
+
+## Chapter 6 (pg 87)
+
+(add later)
+
+## Chapter 7: Advertising
+
+For advertisers, the ability to manipulate consumer impressions and decision-making has been the key to success. If product sales increase following a carefully orchestrated campaign, the persuasive tactics have evidently worked, although as with any natural experiment it is hard to estabilish cause and effect due to the lack of control over confounding variables.
+
+For media users, advertising will undoubtedly have an effect on their lives in the same way as other media, but we try desperately to avoid being influenced, or to deny it, perhaps through the "third-person effect" (individuals perceive that media messages have more effect on other people than on themselves). This is because advertising, unlike other media, is founded on a theory of media effects. It exists __only__ to dupe and persuade, and if it fails to dupe and persuade, it fails completely. Increasingly, the secret of successful advertising has been the extent to which the advertiser can disguise the ad, or at least disguise the elements of the ad that achieve the intended psychological effect. This is testimony to our stubbornness as media consumers not to be influenced by information that we perceive as vulgar, low culture, and over which we have no control.
+
+### Cognitive and behavioral effects of advertising
+
+Academic research into the effects of advertising tends to fall into two groups of effects produced by ads: _perceptual_ effects, such as low camera angles to make the speaker seem authoritative (a tactic now abandined by political advertisers); and _attitudinal_ effects, which examine the short- and long-term impact of an ad on the consumer's impression of the brand and product. More generally, research has focused on the effectiveness of ads in shaping consumer behavior. Most research on advertising rarely queries the cumulative effects of continuously viewing ads on human behavior.
+
+#### Perceptual effects
+
+Most of the research on perceptual effects of advertising have drawn on the information-processing approach of the 1950s that tended to view memory and attention as discrete cognitive processes. While ti has been argued that attention is the key issue for television advertising, the nature of attention is complex, and there are more ubtle factors mediating between attentional processes and the effectiveness of advertising.
+
+The idea that advertising may work at a level below full consciousness has long been a feature of mainstream psychology itself. Most psychology graduates will have encountered the concept of _subliminal advertising_, perhaps in relation to the study of iconic memory. _Iconic memory_ is the term given to the storage of a fleeting visual stimulus, typically a grid of 9 letters present on a screen for a brief period (50 ms or so). Experimental research has suggested that our retention of such displays is better than we realize.
+
+These findings would seem to support the beliefe, still widely held in the business world, that advertising messages can be injected into the memory through exposing audiences to brief snatches of persuasive text. There is, however, no real evidence of this working; dspite that, the concept of subliminal advertising has stuck within modern culture (though if we consider product placement as subliminal advertising, the success rate is somewhat higher). There is, though, evidence that subliminal-type effects may occur with material that is not directly perceived by viewers. Results suggest that, if subliminal advertising is capable of influencing consumer behavior, it is probably through the process of cognitive _priming_.
+
+It seems certain that some fo the success of advertising must be atributed to unconscious processing. We can do little about our memory for advertising jingles and slogans, which is usually a function of simple exposure. If we hear a jingle enough times on television or radio it will inevitably seep into our unconscious through the reactivation of neuronal firing patterns.
+
+Our exposure to ads is rarely governed by conscious, deliberate attention. Television and cinema advertising have been hugely successful because the ads have a captive audience, particularly in the cinema. The increasing sophistication of television advertising over the years reflects the need to compete with programming for entertainment value. Research in this area suggests that programme genre has a strong effect on cognitive processing of commercials. Both violent and humorous programmes have been linked with low recall of advertising material. In both cases it seems that emotional response blunts the degree of attention that viewers can pay to advertising.
+
+The latest challenge for advertisers is how to maximize the effectiveness of advertising over the internet. Businesses continue to shell out for internet advertising because it's relatively cheap and can allow the provision of detailed product information. From a cognitive perspective, internet advertising is never likely to be as effective as cinema and television advertising because of the user control over the medium. Interactive advertising (in which the user can dismiss the ad at the click of a button) cannot use many of the persuasive tactics of traditional advertising - ads interrupt shows or films and have time to develop storylines and characters, or they sit on a page, slowly sinking into the subconscious while the reader peruses the story alongside.
+
+#### Attitudinal effects
+
+Theories of subliminal advertising work on the assumption that attention and perception are sufficient motivation for consumers to buy products, as though shopping is an activity conducted by solitary individuals in a state of trance. Most consumer decisions, however, are made on a largely rational basis, and many take place in a social context. In the history of advertising, advertisers soon felt the need to look beyond perception and memory and toward socially oriented behavior, particularly the study of consumer attitudes.
+
+Increasingly, the "effectiveness" of an ad is measured by whether consumers _like_ the product on offer and the advertisement itself, rather than whether the ad has actually inspired them to purchase the product. Instead of studying perceptual effects of ads, there has been increased interest in their emotional appeals, and the use of music and humour as effective devices.
+
+One of the most heavily researched areas in the psychology of persuasion concerns the degree of _personal involvement_ with the issue or product concerned. Petty and Cacciopo (1981) developed this idea in their Elaboration Likelihood Model of persuasion, in which they argued that if consumers are highly involved with a product (such as if it means a lot to them), they will devote more thought ("elaboration") to the message contained in the advertisement.
+
+The focus on the role of advertising in self-concept and identity construction has shifted the emphasis in advertising away from product-oriented ads toward consumer-oriented ads, with a corresponding shift from perceptual features of ads toward discursive and narrative features (sometimes characterised as the distinction between "hard sell" and "soft sell"). They found that the hard sell and soft sell approaches had different effects on different people. Consumers who scored highly on a test of "self-monitoring" - in other words, those who are socially more self-conscious, and likely to adapt their behavior according to their behavior according to the situation - had more favorable attitudes toward soft-sell ads. This happens, the authors maintained, because such consumers are more image conscious and thus respond better to advertising eliciting moods and associations rather than to hard-sell advertising with more factual information about a product. Low self-monitors, on the other hand, prefer hard-sell ads that describe the benefits of the product; such consumers take a more pragmatic approach to life, and are less concerned with image.
+
+When we compare real social groups in their demographic characteristics, we find equally important differences in response to advertising. For some time, business have based their marketing strategies around consumer profiles - it's standard practice to select the target audience on the basis of demogrphic characteristics before deciding what sort of ad to commission. In advertising, such profiling is known as _psychographics_ - a picture is built up of the typical consumer, and the ad is designed to appeal to their assumed personality characteristics.
+
+All kinds of assumptions are poured into advertising; advertising is less about how people are acting than about how they are dreaming: it reflects the _aspirations_ of the consumer rather than their current situation. This is sometimes expressed as the difference between one's current sense of self and an "ideal self". The opposite, using a representation of a _negative_ future self, is an equally powerful persuasive tactic.
+
+Appealing to consumers' sense of self requires a good deal of speculation, perhaps drawing on psychodynamic theories of selfhood and fantasy, but there is evidence to suggest that the role of consumer goods in modern life is more central to our psychological life than is sometimes assumed in psychology. Some items have incredible salience for the way we construct our identity - and, perhaps, our psychological well-being (Cook, 1992).
+
+Like cognitive/perceptual approaches to advertising, attitudinal astudies of advertising can only speculate about their effectiveness. All the measures taken are indirectly related to _actual_ consumer behavior, and even the sales response to a specific advertising campaign tells us little about the behavior of the individual consumer.
+
+### Rhetorical effects of advertising
+
+A third approach to research on the effects of advertising is to ignore the consumer altogether and focus on the way advertising is created, particularly the use of rhetoric. While this research has been regarded as non-psychological, it's necessary to understand the materials before we can examine their effects.
+
+Much of the research on advertising rhetoric has restricted itself to the analysis of verbal appeals to consumer. However, ads differ tremendously in the amount of verbal information they contain. Increasingly, advertisers work in a visual domain, so studies of rhetoric have had to examine the manipulation of nonverbal info. This is harder to deermine, because visual rhetoric is more reliant on analysts' interpretative skills.
+
+In the 60s, Durand identified four types of rhetorical figure that might be present in an ad: figures of addition, suppression, substitution and exchange.
+
+#### Intertextuality and brand awareness
+
+An advertisement is not a single, independent event; it's a text woven into the cultural fabric, cueing memories of other advertising and product characteristics. Brand awareness is built up through years of viewing and interpretation, and advertising goes beyond the mass media, into our homes and immediate environments. The message contained in a specific ad is therefore hard to isolate from the everyday experiences of the consumer.
+
+Links between advertising can be seen as a form of _intertextuality_. This has the effect of stretching the meaning of an ad into other textual forms, so campaigns can build up meaning thorugh different media. Some ads are extremely hard to decode, but it's been argued that's the point; advertisers actually see the intellectual effort involved in interpreting complex advertising as a selling point. Some ads are remembered specifically _because_ of their lack of information; linking them up with the subsequent television commercials, in one case, requieres extra cognitive work that eventually pays off in terms of recall and recognition.
+
+Other form of intertextual advertising is _product placement_. Thusly, a star becomes a celebrity endorser, and at the same time, the visibility of contemporary consumer goods enhances the realism of the movie. In one study, it was found that the placement had little effect other than reinforcing existing behavior patterns and attitutes. Once again, it seems unlikely that exposure to one single instance of a product will have much impact on long-term behavior.
+
+### Advertising and children
+
+(page 122)
