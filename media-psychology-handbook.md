@@ -259,3 +259,25 @@ A meta-analysis of studies demonstrated a clear positive correlation between age
 Cognitive maduration plays a part in children's media interaction, inasmuch as children have to develop the perceptual skills to identify formal features on TV. However, arguments that cognitive maduration is the main determinant of advertising awareness fail to explain how young children differ in terms of the products they request. Young children must be identifying with protagonists in commercials, if only on superficial characteristics such as gender, but this indicates the selective processing of advertisements, a task well beyond what the cognitive model predicted for 2 to 5 year olds.
 
 Children spend increasing amounts of time alone, and these boundaries are exploited by advertisers, who emphasise the differences between members of the family rather than the similarities.
+
+## Chapter 8: Young Children and Television
+
+Studies such as the one examining the extraordinary complexity of _pretense_ that young children need to negotiate in order to appreciate _The Sooty Show_ are important for media psychology because they show how sophisticated young children's processing of media can be, and because they present innumerable problems for the crude behaviorism that still underpins much researh on children and television. For many years, the "effects" of media, invariably television, on children have been studied with negligible regard to content. It has generally been assumed that the only possible positive role that television might have is of formal education, as with _Sesame Street_.
+
+### Fantasy versus reality: a simple choice?
+
+The esteem in which fiction has been held has often turned to worry when contemplating its influence on young children. Two broad lines of argument are often advanced in relation to the harmful effects of television on children. The first corresponds to the "magic window" approach - the idea that television is a faithful recreation of reality and that children need to be protected from its harsh truths. The second approach is that all television is artificial (and by implication, worthless trash), and too much of it will simply rot children's brains.
+
+Research into children's discrimination between symbolic representations and naturalistic representations. Many researchers have tried to investigate the cognitive processes by which young children learn to distinguish betwen fantasy and reality, with occassional regard to media (mainly television). However, there are problems with the idea of a simple dichotomy between what is real and what is fantasy, and the role of television in this transition is far from clear. Most people will find themselves on a continuum somewher between these two extremes, and accept that although some television is real much is fantasy. Therefore, the important issue - as far as child development is concerned - is _discrimination_. Successful development requires an awareness of which bits are real and which are fantasy.
+
+#### The development of children's understanding of the fantasy-reality distinction in television
+
+The fantasy-reality distinction is made via a three-stage process. At the first stage (2 to 3 years of age), children fail to make a fantasy/reality distinction. Until they are 3 years old, children fail to imitate actions presented on video, although they have no trouble imitating the same actions when they are presented by a live actor.
+
+The second stage occurs around the ages of 4 and 5, and consists of a flat denial of reality status for anything on television (#TODO: check research on fantasy/reality distinction in children) - it's been called an "impermeable membrane". For example, violence is generally dismissed as "acting", blood as "ketchup", and so on. It is not clear whether children are simply overgeneralising about the artificial nature of television, or whether this is part of the growing child's desire to be seen as more mature, and distancing themselves from childish notions of television as directly representational. Interview data with children aged 4 and younger seems to suggest a literalness in their perception of television content.
+
+Awareness that some programmes are real and others are fantasy seems to arrive at some point between 6 and 7 years (with substantial individual differences). Many researchers attribute this awareness to the onset of "tele-literacy", the process by which children learn to "read" media texts. The clearest way this happens is through the identification of television genres - ads are identified first, at between 3 and 4 years of age, thn cartoons, then news programmes - and eventually being able to distinguish children's from adult's programmes, and more subtle genres.
+
+Doubts have been raised as to the fiability of many developmental theories that are based largely on verbal data, since young children are very unreliable interviewees. Many interview questions may be too abstract for young children to give sensible answers to.
+
+(pg 132)
