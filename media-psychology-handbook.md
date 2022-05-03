@@ -241,4 +241,21 @@ Other form of intertextual advertising is _product placement_. Thusly, a star be
 
 ### Advertising and children
 
-(page 122)
+The practice of advertising to children has been hotly debated by psychologists, media and communication experts. Critics of advertising to children argue that children have not developed the cognitive sophistication that enables them to tell advertising apart from other forms of programming, and that even children as old as 12 may misunderstand the nature and function of advertising. Others maintain that children are more sophisticated than cognitive psychologists sometimes think, and that a ban on television commercials is unlikely to have much effect against other forces promoting relentless consumption in contemporary society.
+
+Valkenburg and Cantor (2001) identified four stages that children pass through in their development a customers:
+
+- During infancy (0-2 years), children become interested in brightly coloured television programming (which includes commercials), and by 18 months they start asking for products they've seen advertised in television.
+- During the preschool period (2-5 years), children are at their most vunerable to television advertising. They still have a largely literal understanding of television, believing objects depicted in it are real, and they find it hard to resist tempting products.
+- In the third phase (5-8 years), children become more sophisticated consumers of media, and by the end of the phase they have begun to display independence in terms of purchasing.
+- During the final phase (9-12 years), this independence increases, as children become more critical media users and are attracted toward more adult forms of entertainment. At this stage, peer influence is more important than individual media use, and adult styles of consumption such as brand loyalty begin to appear.
+
+Some issues remain contemptuous within this cognitive/piagetian approach. Firstly, it has been argued that children are able to discriminate between advertising and other forms of programming well before the model claims. Secondly, children's ability to understand the nature and function of advertising. The cognitivist argument is based on general television processing research in general, which portrays children's understanding of television as a simple matter of distinguishing between events on TV as "fantasy" and events around them as "reality". However, most of the research on children's understanding of advertising has focused on their ability to understand the economic principles involved in advertising itself, rather than emantic aspects of individual commercials.
+
+_Advertising literacy_: "understanding" is both the recognition that advertising has a specific source distinct from other television programming, and a recognition of advertising's persuasive intent.
+
+A meta-analysis of studies demonstrated a clear positive correlation between age and comprehension of persuasive intent, although this was less clear when ads were isolated from surrounding programming, suggesting an inability even among older children to identify "advertising" as a genre distinct from television itself. It has been suggested that there's no "magic age" at which an "understanding" great enough to cope with the wiles of advertisers can be said to truly take place, and that in many cases adults would fail the tasks that researchers give to children.
+
+Cognitive maduration plays a part in children's media interaction, inasmuch as children have to develop the perceptual skills to identify formal features on TV. However, arguments that cognitive maduration is the main determinant of advertising awareness fail to explain how young children differ in terms of the products they request. Young children must be identifying with protagonists in commercials, if only on superficial characteristics such as gender, but this indicates the selective processing of advertisements, a task well beyond what the cognitive model predicted for 2 to 5 year olds.
+
+Children spend increasing amounts of time alone, and these boundaries are exploited by advertisers, who emphasise the differences between members of the family rather than the similarities.
