@@ -335,3 +335,53 @@ Little evidence has been provided regarding television having a detrimental effe
 ### Conclusion (Children)
 
 There's a need to consider family interaction and parenting style as key factors in shaping children's understanding and interpretation of media content. We might also benefit from less concern with protecting children's "innocence" and instead studying the child as an active meaning-maker of cultural material who does not necessarily take the material's fantastical nature at face-value.
+
+## Chapter 9: Media and Adolescence
+
+For 50 years youth culture has continued to circulate fashions and ways of speaking that are unintelligible to adults, and therefore treated with the deepest suspicion. As a result, much of the research on adolecescent media use (like most media research) focused on its negative aspects - the "effects" of modelling bad celebrity behavior and listening to aggressive music.
+
+Adolescence is arguably the most significant period of the life span when it comes to media psychology (media usage used to be significantly different between children and teens, though in recent years the lines have blurred as children younger and younger get access to personal devices and the internet). Moreover, their media use becomes more solitary. Peer influence becomes increasingly more important than parental influence, and much of his involves media content. Finally, adolescence is a period during which individuals are actively involved in constructing a coherent identity, and media may play a large part in supplying the cultural materials for this use.
+
+### Media use in adolescence
+
+One of the problems with any academic study of contemporary cultural life is that culture itself is constantly in flux. Give the snail's pace of academic research, studies of media use are invariably out of date long before they ever make it to publication. Much of the info for the chapter is drawn from a large survey whose results are probably already out of date because it coincided with a massive rise in the ownership of mobile phones and internet availability.
+
+As children grow older, their tastes in television content change; boys become increasingly interested in sports, whereas girls become increasingly interested in soaps. At the same time, patters of viewing change too. Although parents are more likely to share the same taste in television with their children, the tendency for children to have their own devices means that adolescents watch increasing amounts in isolation.
+
+#### Music
+
+Some researches have argued that, during adolescence, listening to music takes over from television as the preferred leisure medium. One important difference between watching shows and listening to music is that although television is not always the _primary_ activity during viewing hours, music is even less likely to be so. However, hours spent listening to music may rival television use if treated as a _secondary_ activity.
+
+A study found that music has a less profound influence in terms of identity development than is sometimes asserted. This might reflect cultural changes at the start of the 21st century.
+
+Livingstone and Bovill (1999) found that interest in music tends to be largely a stepping-off point for an interest in fashion, consumerism, romance and sex. It starts somewhat earlier for girls (around the age of 10 or 11), but when boys become interested in music it's more likely to remain their primary interest, because boys are less likely to use it to explore other areas of socialisation.
+
+Music plays an essential part in dividing the cultural world into "teenage" and "adult" domains.
+
+Concern over the lyrical content of pop music may be misplaced. The interpretation of lyrics is very different for teenagers and adults, and there may also be marked cultural differences in the interpretation of pop lyrics and videos.
+
+### The role of media figures during adolescence
+
+One of the most important funcions of media in adolescence is that they provide young people with a host of adult figures who play an increasingly important role in their lives. Traditionally, adolescence is a period when children seek out figures from beyond their immediate social environment who can act as heroes, idols or role models. Theories of adolescent development have argued that adult figures rom outsid the family play an important function in guiding children toward adult life. Erikson referred to such relationships as _secondary attachments_, marking the transition between primary attachment to parents, and adult attachments.
+
+These secondary attachments can fall into two broad groups: romantic attachments or identification attachments.
+
+The second type is related to the process of role modelling, especially if the media figure completes a link to the world of adult work and occupations. Role models tend to be most useful when the qualities they offer are attainable. Adolescents' choice of role models is determined partly by broader culture.
+
+One of the features of this stage in the life span is that children begin to see their parents as "real people" performing other roles beside parental functions, and this leads to a decline in their heroic status, as they might pale by comparison with the apparent virtues of adult figures in the media. Also during this period, stronger attachments are formed toward peers and romantic partners.
+
+### Cultural functions of media use
+
+The bedroom is a private space that separates the teenager from their parents (and siblings) but - through a shared media culture, and use of communications technology - connects them to peers. The private bedroom is a site where much creative work may be conducted, but these functions may be compromised if teenagers have to share space. It's also a space that they can use to present their emerging identity through the employment of posters, music, photographs...
+
+_Room culture_. The use of bedroom objects changes through adolescence as media become increasingly integrated into the individual's sence of identity.
+
+The use of media materials in constructing adolescent identities has been called _patchwork identity_ by some researchers. Media may be seen to offer young people such a range of lifestyle and consumer choices that they are able to construct a unique identity by mixing different styles. Some cultural scholars have seen this as an increasing trend toward individualism of life worlds and lifestyles, which is itself part of a gradual merging of public and private spheres. Where this is most evident is in the use of the internet as a means of connecting individuals across geographical and cultural boundaries.
+
+### Media influences on adolescent body image
+
+Most studies of body image support the argument that the moders Western ideal of the supper-slim, low waist-to-hip ratio female figure is the result of cultural chnges rather than a biological imperative.
+
+Two of the most important theoretical approaches that have been used to account for media effects on adolescent body dissatisfaction are _social comparison theory_ and _identification_.
+
+Although there seems to be plenty of evidence supporting a media/body image link, the general consensus is that media play a supporting role among numerous factors behind th rise in eating disorders. Chief among these is peer influence, which is usually cited as the most important factor. But _media_ influences peer influence, so this influence can't be treated as entirely separate from media use.
