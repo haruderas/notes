@@ -280,4 +280,58 @@ Awareness that some programmes are real and others are fantasy seems to arrive a
 
 Doubts have been raised as to the fiability of many developmental theories that are based largely on verbal data, since young children are very unreliable interviewees. Many interview questions may be too abstract for young children to give sensible answers to.
 
-(pg 132)
+It could be argued that the developmental path to distinguishing fantasy from reality represents nothing more cognitively sophisticated than an indocrination into adult ways of perceiving the world.
+
+The assumption in most of the research on fantasy and reality in media is that age-related changes occur simply as a result of brain maturation. However, it has long been realised that cognitive development is inextricably linked with language development, and that social interaction plays a crucial part in the process. Perhaps the most important media-related behavior children can learn from adults is that, contrary to what adults say, much of what they watch on television is deeply important, and therefore highly "real", even if, in the cold hard light of rationality, they know it's "only acting" or "only a game".
+
+Looking at television reception from the tradition of semiotics (the study of signs and symbols in communication): the _modality_ (apparent reality) of a message is either strengthened or weakened by certain characteristics of that message.
+
+Wright et al. (1994) suggested that there are two properties of reality that children learn to identify: _factuality_ and _social realism_. The latter point extends to the perception of both real television people and fictional characters. In one study, older children (age 8/9) provided more complex descriptions of fictional characters (dispositions, traits, motives...) than of real people in their lives, which is not surprising in some ways given that media sheds light on those aspects of characters that are hidden in real life.
+
+It has been suggested that, in later childhood, the more realistic the medium is the more emotionally involved will children become, though experimental results seem not to support that proposition. When 9- to 11-year-old children were shown a fictional drama in three different guises, reality status had very little impact on emotional response. Results suggest that whatever reality biases emerge around the age of 5, they are soon forgotten as children develop emphatic awareness and are ble to draw analogies between fiction and real life.
+
+_The Simpsons_ provides evidence that the power of the text, and of character creation, can override low modality markers, an effect that should prove even more powerful for soaps and other naturalistic drama.
+
+### Script and schema explanations
+
+Other studies have looked at children's processing of television narratives, and memory for television stories. These suggest that children's recall of television narratives is similar to that of stories presented in other media, such as pictures.
+
+These findings suggest that young children are happier when events fall into place in a familiar manner that echoes their limited experience. This might explain why children are so captivated by TV advertising, where ads repeat ad nauseam, and children often respond by joining in with jingles and slogans. It also explain why children enjoy repetitive programme segments such as title sequences, and drawn-out "once-a-week" scenes. Silverstone (1993) argued that such repetitive sequences offer a sense of reassurance and stability, and the illusion of control - you _know_ what is coming next.
+
+It may not be too much of a onceptual leap to argue that _all_ television, and maybe all experience, is understood in the context of narratives, or scripts. For example, in _The Sooty Show_ the puppets are "linguistically constituted as children", and the activities in which they participate resemble the kinds of games and interactions between children and parents. The situations are highly familiar to those in which children find themselves, and it does not matter that the protagonists are puppets representing animals, two of whom cannot speak; the "mischief-trouble" script overrides the low modality every time.
+
+It's been argued that television actually gives children the experience of a rich variety of discursiv eand narrative forms. This is important for the development of "transformational power" - in effect, the ability to apply concepts to different situations. One example is the identification of a character type; the repetition of a particular fictional device through children's fictionl media allows viewers to equate different characters as exemplars of a character type.
+
+Messenger Davies suggested that children develop knowledge structures about the world that she called _schemata_. These set up certain expectations about cause and effect, and what will happen next. One way in which such schemata may work is in the development of understanding the notion of taxonomies, a device that can be seen throughout children's media whether there are classification systems available, such as attributes in Pokémon cards. It could be argued that these schemata may have some benefit in setting children up for the type of knowledge-building activities they will encounter in later education.
+
+### Children's socialisation through media
+
+If television might aid in the development of abstract cognitie structures (or narrative scripts), it may also teach children more directly about how to behave and respond in social situations. It could be argued that socialisation involves much more than simply copying behavior viewed on screen, especially when that behavior is strikingly inappropiate.
+
+How children come to identify media characters as analogous to people they know in real life. It may be supposed that such awareness develops in tandem with their real-life person knowledge. Children as young as 28 months old were able to offer descriptive terms about real people based on personality traits such as "nice", "bad", "naughty" and so on.
+
+Children from 7 to 11 years of age have been shown to evaluate characters on the basis of typical human personality dimensions, but it is not known at what stage, and how, children come to equate the huge variety of antropomorphic and human figures on television with the people around them in real life, and attribute consistent behavioral patters and personality traits to them.
+
+The argument that viewers, even very young viewers, do not automatically attribute psychological qualities to television characters seems highly unlikely given the depth of the discussions that they have at school about real and fictional people on television. In a study, children actually produced more abstract psychological descriptions of child characters on television than of their own peers, although the overall number of concrete behavioral attributes was greater for real children. One explanation for this finding is that television provides viewers with unique insights into aspects of human character that remain inaccessible in real life.
+
+Children's exposure to a vast array of human and nonhumans figures on television makes the media an important agent of socialisation.
+
+_"Mere exposure effect"_ - familiarity breeds content rather than contempt. Findings suggest that early childhood viewing of character from different ethnic groups has a more positive effect even than explicitly antiracist material aimed at older viewers.
+
+### Imagination, pretence, and theory of mind
+
+One of the most important areas of developmental psychology at present is the literature on _theory of mind_, which is the ability to impute mental states to others and use this information to predict their behavior.
+
+Although theory of mind is a _social_ cognitive skill, most of the research on the topic has treated it as a proerty that derives solely from cognitive maturation. In other words, TOM is seen as a biologically "hard-wired" behavior that emerges of its own accord as the human brain matures. This is surprising, because TOM is clearly about _other people_ and it's therefore hard to imagine that the social environment plays no part in its development. A study found superior TOM ability in children whose conversations with their mothers contained more abstract psychological descriptions of people and attributed internal motives to behavior. This provides support for the argument that cognitive development takes place simultaneously with language development and that the two are inextricably linked. However, it's unlikely that language alone, or cognitive maturation, can enable children to impute mental states to others; the benefit of experience must not be underrated. It's suggested that the more opportunities children have to learn about "other minds" - whether through talk or play - the sooner a theory of mind develops.
+
+It's certainly possible that television provides preschool children with another opportunity to learn about other minds. Children's television contains so much rich interaction between clearly defined characters.
+
+The results of Rosen et all (1997)'s study using a novel false belief taks have two important implications for both media psychology and developmental psychology. First, it provides substantial evidence that children as young as 3 are able to make complex psychological judgements about characters and plot depicted in cartoons. Second, it reinforces some of the doubts about the validity of laboratory-based false belief tasks as measures of TOM. Elsewhere it has been argued that the commonly used tasks are too difficult for 4-years-old to pass, not because of their lack of cognitive sophistication but because their verbal abilities are not equipped to deal with the abstract nature of the questions they're asked. These results suggest that, under more natural conditions such as watching a normal cartoon, children are capable of dealing with false belief questions, maybe because the events they are asked to describe are more meaningful are more meaningful and interesting.
+
+Children might see pretense not as a mental activity but instead as an action. In other words, when a child pretends to brush their teeth using a finger as a toothbrush, they are simply reenacting a familiar behaioral routine - no abstract analogy between fingers and toothbrushes is necessary, nor is the notion of pretense.
+
+Little evidence has been provided regarding television having a detrimental effect on the amount of fantasy play. However, there does appear to be a link between television content and the type of play - for example, educational television can stimulate play involving props and materials. Overall, it seems that television cannot either stimulate or suppress imagination, although it may help shape the nature of childhood fantasies.
+
+### Conclusion (Children)
+
+There's a need to consider family interaction and parenting style as key factors in shaping children's understanding and interpretation of media content. We might also benefit from less concern with protecting children's "innocence" and instead studying the child as an active meaning-maker of cultural material who does not necessarily take the material's fantastical nature at face-value.
