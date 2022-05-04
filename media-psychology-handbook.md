@@ -441,3 +441,33 @@ Stereotypes are used to reinforce divisions where blurred boundaries cause a pro
 Popular culture is infused with symbols; without some degree of stereotyping, we would never be able to recognise its analogy of the social world.
 
 The concept of media representations is, for a start, predicated on the assumption that there is a preexisting social reality, entirely independent of the media, that is capable of being misrepresented by them. However, media penetrate so far into our psychological life that their content irrevocably shapes our understanding of the phenomena they communicate.
+
+## Chapter 11: The Psychology of the Media Audience
+
+The notion of "the audience" is of particular importance to media psychology because much of the time psychology attempts to deal with universal processes, designing studies in which the sample of participants is supposedly representative of an overall "population". Increasingly, social psychologists are moving away from such "reductionist" models of human behavior. The importance of social, cultural and historical context on behavior is becoming ever more a feature of psychological research. In media psychology this equates to a gradual shift from studying "the viewer" as a random human subject whose responses to stimuli can be easily measured and aggregated with other subject responses, toward understanding "audiences" and the variety of meanings with which they invest media texts.
+
+Findings on diverse readings of media material let European media scholars to question thewhole concept of messages that could be easily and unambiguously deciphered by readers, resulting in a more user-led approach that focused on the meaning of the text for the individual viewer. However, cultural studies and sociology's natural resistance to individual psychology has led them to frame the activity of reading in broader social groups (e.g., women, gay men, ethnic and cultural groups)
+
+(#TODO: check out Höijer, 1992)
+
+### "The audience" in media research
+
+McGuire (1974) was one of the first to devise a model of media gratification based on theories of human motivation. Motivation can be either _cognitive_ or _affective_, and either _active_ or _passive_. Within these categories there are other forms of motivation. Active/passive modes can be either _internal_ or _external_. If we take as an example watching television when there's nothing else to do, an internal motivation would be boredom whereas an external one could be lack of company. These motivational theories are complemented by theories of gratifications, which are built on the concept of basic human needs.
+
+### What is parasocial interaction?
+
+Parasocial interaction - the complex web of relationships betwen individual mdia users and the people (or "figures"), both real and imaginary, who populate the media environment.
+
+Parasocial interaction occurs when we respond to a media figure as though they/it were a real person. We speculate about people we have never met but whom we feel we "know" through our use, and our friends' and neighbors' use, of various media. In some case we may actively incorporate aspects of media figures into our behavior.
+
+#### Parasocial interaction: the research literature
+
+The concept of parasocial interaction resurfaced when the uses&gratifications tradition brought it back to life as an explanation for the gratifications users receive from interacting with people onscreen.
+
+Two essential functions of PSI: companionship and personal identity. Other authors have argued that identification doesn't occur in parasocial relationships, because identification has a longer history than PSI.
+
+Such is the importance of PSI that it can dictate the fortunes of a show.
+
+Studies using the PSI scale have found that perceived realism and attraction to the media figure were highly correlated with PSI, which suggests that media users evaluate media figures along criteria similar to that they apply to people they encounter in the flesh.
+
+(pg 187)
