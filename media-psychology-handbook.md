@@ -385,3 +385,59 @@ Most studies of body image support the argument that the moders Western ideal of
 Two of the most important theoretical approaches that have been used to account for media effects on adolescent body dissatisfaction are _social comparison theory_ and _identification_.
 
 Although there seems to be plenty of evidence supporting a media/body image link, the general consensus is that media play a supporting role among numerous factors behind th rise in eating disorders. Chief among these is peer influence, which is usually cited as the most important factor. But _media_ influences peer influence, so this influence can't be treated as entirely separate from media use.
+
+## Chapter 10: Representations of social groups
+
+Just as the mere presence of different ethnic groups might foster more positive attitudes among viewers, the reverse effect may also be present, which is that our dependency on media representations of these groups may, in some circumstances, force us to rely on stereotypes.
+
+Innacurate or stigmatising media representation is more contentious when it involves brader social groups, notebly those defined in terms of age, gender, ethnicity, culture, sexual preference, or health status.
+
+One of the chief concerns aout the portrayal of different social groups in the media is that they will be _underrepresented_. However, underrepresentation is only one way in which minority groups may receive a raw deal from the media, as they can also be _misrepresented_. Stereotypes need not be negative in order to perpetuate prejudice; racist beliefs may be circulated through representations that appear positive on the surface. Even when media products explicitly tackle racism as an issue they can end up unwittingly casting the ethnic minority group as the root of the problem through the way the issue is framed in the narrative.
+
+### Gender representation in the media
+
+Women tended to be portrayed as passive victims waiting to be rescued by heroic male figures. A study of gender in advertising examined subtle ways in which women were cast in submissive roles by certain photographic angles and the use of passive postures. More often than men, female models were seen to be lying down, touching objects, or gesturing submissively toward a male model.
+
+Three types of masculinity present in modern Western culture: hegemonic masculinity, conservative masculinity and subordinated masculinity.
+
+Rather than counting categories and instances, the study of representations in media is more to do with the _cultural meanings_ that these representations hold for us.
+
+Regarding relationships between men, it's been suggestd that the lack of intimacy in men's friendships stems from a fear of homosexuality. Men in popular culture and the media tend to fall into three types: loners, close pals and duos.
+
+Men were hardly portrayed with children without the mother being present. That said, the male role in parent-child interaction changes as the children get older. Men are much more likely to be seen engaging in child care with infants than with school-age children, and in the study not one instance was found of a man caring for a teenager. Men are also more likely than women to be engaged in educational activity with children, and also in eating and play (_quality time_). Women are still left to do all the dirty, less obviously appealing aspects of bringing up children.
+
+### The effects of changing media representations of men
+
+Although in most respects positive, for many authors the "feminisation" of men has had its downside in that it has led to tradicionally female activities being undermined or trivialised.
+
+Are media images a reflection of reality, or do they help shape it? This frequently asked question rests at the center of media psychology, but really relies on how we define "reality", and how much influence with which we can really credit the media. Essentially, the question is a rerun of the "effects" debate around sex and iolence, except that where issues such as gender and ethnicity are concerned the images are multiple and pervasive, almost impossible to avoid without opting out of media consumption altogether. Such is our dependency on media that the question os not whether media representation reflects reality, but whether they themselves _constitute_ reality (Craig, 1992).
+
+### Representations of minority groups in the media
+
+Clark's stage model (1969) was the first one to suggest a model to explain how minority groups are portrayed over time, though it doesn't seem to have stood the test of time. One of the issues with it is that it assumes a certain degree of homogeneity within the minority group itself. Although ethnic groups or sexual minorities obviously incorporate wide fluctuations, they are still more homogeneous than are groups such as the disabled, in which _disability_ can refer to a huge variety of characteristics that are shared by small numbers of people.
+
+### Media representations of disability
+
+Certain disabilities were represented more than others, notably locomotor problems and disfigurement, but also the category "behavior", which seems to be a bit of a ragbag category possibly including mental illness. Communication problems and incontinence were underrepresented.
+
+Disabled individuals were least common in light entertainment, such as comedies. Representations of disability were most likely in local news, although typically they were the focus of the stories was on medical innovations or health policy (so the story was about the medics or academics rather than the people with the disability).
+
+Taxonomy of stereotypes of disability in the media: "sweet innocent", "sage", "obsessive avenger".
+
+How can the problem of stereotyping and underrepresentation be tackled? Some possibilities are involving disabled people as consultants, actors, media personnel, and so on, or through education.
+
+### Media representations of mental health
+
+Mental health is even more fragile a social construct than is disability in that it requires the identification of consistent patters of behavior, usually on one single classification system, and the nature of certain "syndromes" is often disputed.
+
+"The presentation of a character as mentally ill is a decision that is made to serve very specific dramatic needs", and these needs "result in overemphasizing the negative and stigmatized images of the mentally ill, such as violence, bizarre behavior and failure".
+
+Positive news stories about mental health do not receive anything like the high priority accorded to murders and other sensational crime stories [...] because the images of recovery and positive behavior are far less interesting and dramatic than are the spectacular negative aspects of the condition.
+
+### Further issues & Conclusion
+
+Stereotypes are used to reinforce divisions where blurred boundaries cause a problem for those in power.
+
+Popular culture is infused with symbols; without some degree of stereotyping, we would never be able to recognise its analogy of the social world.
+
+The concept of media representations is, for a start, predicated on the assumption that there is a preexisting social reality, entirely independent of the media, that is capable of being misrepresented by them. However, media penetrate so far into our psychological life that their content irrevocably shapes our understanding of the phenomena they communicate.
