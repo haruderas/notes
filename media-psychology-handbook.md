@@ -470,4 +470,35 @@ Such is the importance of PSI that it can dictate the fortunes of a show.
 
 Studies using the PSI scale have found that perceived realism and attraction to the media figure were highly correlated with PSI, which suggests that media users evaluate media figures along criteria similar to that they apply to people they encounter in the flesh.
 
-(pg 187)
+#### Similarities between social and parasocial relationships
+
+Turner (1993) noted that similarity ("homophily") was an important factor in the strength of the parasocial relationship, particularly in relation to attitudes, appearance, and background. However, these effects varied according to the type of media figure.
+
+Findings suggest that if we examine social relationships at a cognitive level (i.e., how a single individual perceives other people), there is no reason why we should not treat parasocial relationships within the same framework. PSI studies can expose the shortcomings of traditional theories of relationships, such as requiring an element of reciprocity for "true relationships".
+
+#### A model of parasocial interaction
+
+Continuum of _parasociability_ suggesting that, the more remote interactants are from one another, the more features their relationship shares with a parasocial one. It also suggests that one of the important properties of any social encounter is its relationship possibilities.
+
+Three levels of PSI: at level 1, the interaction is with a media figure that represents themself; at level 2 a human actor represents a fictional character; and at level 3 the figure is non-human. With each level, a social relationship with the media figure becomes less of a possibility.
+
+The second part of the model attempts to explicate the processes involved in the development of a parasocial relationship. The immediate response to an onscreen character involves making judgements about that person. In most cases we may actually carry over some person knowledge from previous encounters with the media figure. Two broad responses are possible here that have implications for the development of a relationship: we my _identify_ with the figure, or we may simply interact with them.
+
+In cases where we identify with the figure, we may go on to incorporate some of that figure's behavior into our own. Alternatively, we may simply develop our relationship in social interaction, by discussing or gossiping about the future with others. This process can take plac during the viewing itslf, when it well may well transform our person judgements in the activity of viewing.
+
+The identification or interation will be strengthened in further media encounters with that figure.
+
+### Fans and fandom
+
+Jenkins' (1992) model of fandom is based on four ideas:
+
+- Fans adopt a distinctive, non-casual mode of reception, taking it beyond the individual viewing episode.
+- Fandom constitutes a particular interpretive community, and is fundamentally a social pursuit.
+- Fandom constitutes a particular art world, with its own aesthetic standards, conventions, critical evaluations...
+- Fandom constitutes an alternative social community, and is therefore attractive to minority groups, and individuals whose interests are otherwise pursued in isolation.
+
+Fantasy figures have always played an important role in parasocial attachment, particularly in adolescence (secondary attachments to adult figures oher than parents are an important part of the passage to adulthood).
+
+### Conclusion (Audiences)
+
+One of the issues that cause a problem for traditional psychological theories of media is the adherence to a social-audience perspective, in which the audience is regarded as a social group that exists prior to the indroduction of a given medium. Psychology would benefit from viewing audiences as determined, albeit only to an extent, by the media themselves. Contemporary media users interat with a huge cast of real and imaginary figures in a media environment in which fantasy and reality continually overlap and invite all manner of irrational responses. The realism of contemporary soaps has no historical parallel and it's meaningless to search for one.
