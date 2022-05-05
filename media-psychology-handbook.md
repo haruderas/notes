@@ -502,3 +502,48 @@ Fantasy figures have always played an important role in parasocial attachment, p
 ### Conclusion (Audiences)
 
 One of the issues that cause a problem for traditional psychological theories of media is the adherence to a social-audience perspective, in which the audience is regarded as a social group that exists prior to the indroduction of a given medium. Psychology would benefit from viewing audiences as determined, albeit only to an extent, by the media themselves. Contemporary media users interat with a huge cast of real and imaginary figures in a media environment in which fantasy and reality continually overlap and invite all manner of irrational responses. The realism of contemporary soaps has no historical parallel and it's meaningless to search for one.
+
+## Chapter 12: News and Current Affairs
+
+Television news is much less effective at conveying semantic information than is newsprint. There is less time to present more than the essential facts concerning a story; news programming is sequential, so stories that we find less interesting may result in a lapse of atenttion or even changing activities; and since the news don't refresh our memory of the facts surrounding a story, we may find ourselves losing the thread.
+
+For more isolated viewers such as older adults and people with restricted mobility, the news is perceived as a way of staying in touch with the outside world.
+
+### Content-based approaches to news media
+
+Broadly speaking, there are two approaches that have been adopted with reference to news in media and communications research. The first concerns the __content__ of the news itself, whereas the second examines the __impact__ on the viewer or reader.
+
+Content-based approaches examine the way the news is put together by journalists and broadcasters to achieve certain effects.
+
+_Discourse analysis_ (DA): the study of talk and text. DA comes in many forms: some versions examine language primarily as a toolkit for constructing the world and adopting positions in argument, others prefer a definition of discourse that incorporates broader cultural practices, and some adopt explicit ideological positions. The form that has been applied mostly to news discourse is _critical discourse analysis_; CDA is rooted in semiosis, by which is necessary to study more than language itself. CDA also doesn't begin with the text itself; it regards any text as an account of a real issue that exists beyond the text.
+
+When talking about the precise language used in news stories, it's important to always remember that choice of words is not accidental; texts are built from a series of optional terms and expressions within a given vocabulary or grammar. Grammatical subtleties are also quite relevant; for example, the same sentence written in passive or active voice can create two different interpretations.
+
+The problem with content-based approaches in general is that although they reveal some interesting linguistic and rhetorical devices, they don't attempt to specify what effect these devices have on readers and viewers.
+
+### Information-processing approaches to news reception
+
+The study of news reception (how readers and viewers actually understand and interpret news) has followed two broad theoretical approaches: the short-term cognitive approach, and the cultivation approach, which looks at people's general media use and their understanding of news content.
+
+In general, our memory for news is not particularly good, even for news programmes on television. Partly this is due to distracting visual footage that does not always tally perfectly with the verbal material. Some producers have tried dealing with this by delaying showing pictures until the details of the story have been read out. Research has suggested that this only works if the visual images induce a positive or neutral mood in the viewer. If the images shown are negative, it would be better to present them upfront, because they inhibit the recall of the precding verbal material and enhance recall of subsequent verbal material (probably because emotive pictures heighten viewers' attention).
+
+Much news production practice seems to be based on faulty psychology. News producers have long organised bulletins in clusters of stories based on thematic similarity. This practice has evolved partly as a result of newspaper practic and partly in the belief that viewers and listeners find such story packaging easier to follow and recall. However, research indicated entirely the opposite; items are better remembered when embedded in a series of ites of different thematic.
+
+#### News framing
+
+In actual news reception, our recall for events needs to be examined in the light of our understanding of those events through broader frameworks of knowledge. Much of the news washes over us because we have missed, or not understood, key elements in understanding the story. Some of these processes relate back to standard theories of text comprehension - notably, the _framing_ theory of Bransford and Johnson (1972), which suggests that learning is futile without a properly understood context.
+
+Research indicates that no matter how much time is devoted to a particular issue, if viewers hav neither the interest nor the expertise they are likely to switch off, either actually or metaphorically.
+
+Four salient aspects of the text (two news stories about planes that were shot down) that created a frame for interpretation (Entman, 1991):
+
+- Agency: who was responsible for the incident?
+- Identification: with whom is the audience invited to identify?
+- Categorisation: attributions that the media source is making in the story.
+- Generalisation: where did the blame lie for the incident?
+
+The study of parasocial interaction between viewers and newscasters demonstrate the importance of the human news source, certainly in terms of keeping the viewers watching It's very important that we find this news source credible, so newsreaders need to communicate a sense of _trust_, especially given the finding that television is considered a more trustworthy source of news than newspapers.
+
+However, newsreaders may influence the audience interpretation of the material in ways of which they themselves may be unaware; the possibility that even the facial expressions of newsreaders may bias a viewer's response to the information being reported has been studied.
+
+Although we expect our newsreaders to be trustworthy and impartial, we nevertheless prefer them to display human qualities. One interviewee explained that the newsreaders' banter was reassuring, especially when the news was bad; if they could find time to share a joke, it meant that life goes on regardless despite the awful events in the rest of the world. This reassurance provides continuity for viewers.
