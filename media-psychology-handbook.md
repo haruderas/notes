@@ -547,3 +547,23 @@ The study of parasocial interaction between viewers and newscasters demonstrate 
 However, newsreaders may influence the audience interpretation of the material in ways of which they themselves may be unaware; the possibility that even the facial expressions of newsreaders may bias a viewer's response to the information being reported has been studied.
 
 Although we expect our newsreaders to be trustworthy and impartial, we nevertheless prefer them to display human qualities. One interviewee explained that the newsreaders' banter was reassuring, especially when the news was bad; if they could find time to share a joke, it meant that life goes on regardless despite the awful events in the rest of the world. This reassurance provides continuity for viewers.
+
+## Chapter 13: Sport
+
+(pg. 216)
+
+## Chapter 14: Audience Participation and Reality TV
+
+(pg. 229)
+
+## Chapter 15: Soaps
+
+(pg. 243)
+
+## Chapter 16: The Internet
+
+Online communication is profoundly different from face-to-face interaction. In cyberspace, we must do without the gestural and other nonverbal cues that convey paralinguistic information to supplement the verbal content of our communication. Prosodic cues - emphasis on certain words, mimicked accents, pauses, and other paralinguistic verbal utterances (um, ah, etc.) - that also add meaning to the words we speak are likewise absent in online interaction. All we have left are the bare bones of the verbal text itself, although we persist in bringing oral social conventions into this written conversation.
+
+For some users, freedom from these visual and oral modes of communication may actually bring benefits. Our appearance and manner of speaking can convey information that profoundly affect the nature of our face-to-face interaction.
+
+Internet communication can be empowering for users who feel marginalized in face-to-face interaction; belonging to internet groups can lead to increases in self-esteem through group membership. Also _diasporic cybercommunities_.
