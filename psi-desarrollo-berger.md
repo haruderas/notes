@@ -189,7 +189,7 @@ El pensamiento de los niños es directo y se basa en la observación más que en
 
 Los cambios en esta etapa no son tan rápidos o bruscos como los que se dan en la anterior o en la siguiente.
 
-### Capítulo 11: Los años escolars: el desarrollo biosocial
+### Capítulo 11: Los años escolares: el desarrollo biosocial
 
 #### Un tiempo saludable
 
@@ -243,13 +243,27 @@ Se ha visto que existe cierto desarrollo moral antes de los 7 años, pero al men
 
 #### El procesamiento de la información
 
-- El enfoque basado en el procesamiento de la información examina cada paso del proceso de pensamiento, desde el estímulo entrante hasta su procesamient, y utiliza el ordenador como modelo. Los seres humanos son más creativos que los ordenadores, pero este enfoque es de utilidad para comprender la memoria, la percepción y la expresión.
+El aprendizaje es particularmente rápido en la niñez, aun sin la instrucción explícita del adulto que caracteriza la educación formal. A estas edades los niños utilizan su mente de forma más eficaz, teniendo mejor acceso a las estrategias y a un análisis más rápido. La memoria es fundamental para estos logros.
+
+La capacidad de la memoria a largo plazo es casi ilimitada hacia el final de la segunda infancia. La velocidad y eficiencia de la memoria operativa mejoran de manera radical. Además, los niños se vuelven más selectivos y estratégicos, en parte debido al desarrollo de la corteza prefrontal y en parte porque están poderosamente motivados. Los procesos de control, tales como la atención selectiva y la metacognición, permiten a los niños dirigir su mente hacia todo lo que los motive a aprender y a lo que los adultos estén motivados a enseñarles.
+
+La memoria fuente, que es la capacidad de recordar el origen (una persona o un suceso) de la información, es particularmente inadecuada en la segunda infancia, en parte debido a la inmadurez de la corteza prefrontal.
+
+Es en los años escolares cuando los niños pueden comprender que las otras personas tienen diversos pensamientos, no sólo diferentes de los del propio niño, sino también de los pensamientos de los demás.
+
+La pragmática del lenguaje muestra un progreso muy importante en la segunda infancia; nuevas capacidades de análisis y control permiten a los niños separar los datos que ingresan de los que salen. El rápido avance del reconocimiento a comienzos de la segunda infancia se produce cuando los niños se dan cuenta de que hay muchos factores, incluidos el tono de voz, la elección de las palbras y el contexto, que pueden invalidar el contenido del habla.
+
+La exposición lingüística inicial (vocabulaio, pronunciación, código formal, etc) sea lo suficientemente amplia como para que los niños desarrollen las destrezas lingüísticas que necesitan.
+
+- El enfoque basado en el procesamiento de la información examina cada paso del proceso de pensamiento, desde el estímulo entrante hasta su procesamiento, y utiliza el ordenador como modelo. Los seres humanos son más creativos que los ordenadores, pero este enfoque es de utilidad para comprender la memoria, la percepción y la expresión.
 - La memoria comienza con la memoria sensorial, la cual almacena brevemente la información que llega al cerebro desde los órganos de los sentidos. Luego, la información prosigue hacia la memoria inmediata, donde las percepciones se procesan durante un breve tiempo en la conciencia activa. Finalmente, la memoria remota almacena algunas imágenes e ideas indefinidamente.
 - La memoria inmediata mejora durante la segunda infancia, con la ayuda de la atención selectiva, una base de conocimientos más amplia y las estrategias lógicas para la recuperación. Además, un procesamiento más rápido mejora cada aspecto de la cognición, incluyendo la memoria inmediata. La práctica repetida hace que los patrones y las destrezas del pensamiento lleguen a ser un proceso automático que requiere muy poco esfuerzo consciente y escaso tiempo.
 - Los niños mejoran en el control y la dirección del pensamiento a medida que la corteza prefrontal madura. Como consecuencia, la metacognición progresa.
 - El aprendizaje del lenguaje avanza de muchos modos prácticos, que incluyen el vocabulario expandido, a medida que las palabras se unen de manera lógica, y los cambios de código, a medida que los niños varían su lenguaje para comunicarse con otros. Los niños de nivel socioeconómico bajo generalmente obtienen puntuaciones más bajas en sus habilidades lingüísticas, pero esto no está directamente relacionado con los ingresos familiares. Las expectativas de los padres y el lenguaje que utilizan son factores muy influyentes.
 
-#### Aprendizaje
+#### Enseñanza y aprendizaje
+
+La instrucción durante la segunda infancia es más efectiva si es concreta y sencilla, y no abstracta o indirecta. Los niños desean aprender todo lo que se les presenta de manera adecuada, pero no pueden aprender todo de una vez. Cuando un nuevo conocimiento se construye sobre una base de conocimiento ya establecida, se conecta con otros materiales y se piensa de manera deliberada y secuencial, entonces el escolar llega a recordar y dominar bastante bien las ideas complejas.
 
 - La comprensión fonética es fundamental para todo niño que aprende a leer, pero la motivación y el vocabulario también son importantes.
 - Los logros en matemáticas y ciencias son más altos en los países del este de Asia que en cualquier otro lugar, quizás debido a que en esos países las lecciones de matemáticas son secuenciales, plantean retos y son interactivas.
@@ -259,6 +273,10 @@ Se ha visto que existe cierto desarrollo moral antes de los 7 años, pero al men
 
 #### El grupo de pares
 
+Los niños en edad escolar se vuelven mucho más conscientes socialmente, lo que significa que la comparación social es particularmente intensa durante esos años. Cuando surge un código de conductas, la influencia de los pares pesa más que la de los adultos.
+
+Hay cosas que los adultos no pueden enseñar a los niños porque no son sus iguales. En todo el mundo, la cultura infantil alienta a independizarse de los adultos.
+
 - Los pares son decisivos en el desarrollo social del niño de edad escolar. La amistad se vuelve cada vez más cercana e influyente. Por lo general, los amigos proveen la compañía que se necesita y permite el desarrollo de las capacidades sociales.
 - Los niños populares pueden ser cooperativos y de trato fácil, o competitivos y agresivos. Esto depende mucho de la edad y la cultura del niño.
 - Los niños rechazados pueden ser desatentos, agresivos o retraídos. Estas clases de niños tienen dificultades para interpretar las concesiones mutuas de la infancia. El rechazo por lo general es temporal.
@@ -266,12 +284,26 @@ Se ha visto que existe cierto desarrollo moral antes de los 7 años, pero al men
 
 #### La naturaleza del niño
 
+Durante la edad escolar, los niños se adaptan a las comparaciones sociales, a experimentar el control esforzado, a la lealtad a sus amigos y a apreciar a sus pares y a sus padres.
+
+El autoconcepto del niño en edad escolar ya no está sujeto a la perspectiva de los padres; los niños se reconocen a sí mismos como diferentes de sus padres y maestros. Por otra parte, el incremento de la autocomprensión, el control esforzado y la conciencia social tienen un precio: la autocrítica y la autoconsciencia tienden a aparecer entre los 6 y los 12 años, y la autoestima desciende. Para la mayoría de los niños, la bajada de la autoestima es relativamente leve. 
+
 - Todas las teorías del desarrollo reconocen que el niño de edad escolar se vuelve más independiente y competente de muchas maneras.
 - La interacción de autoentendimiento y la percepción social es cada vez más evidente durante los años escolares. Los niños comprenden quiénes son, en parte al compararse ellos mismos con otros. La autoestima tiende a estar más estrechamente conectada con la competencia específica y a menudo decae con la edad.
 
 #### Cómo afrontar los problemas
 
-- Aunque la mayoría experimenta algún tipo de estrés, los niños de edad escolar tienden a ser resilientes. Muhos saben sobrellevar los problemas más importantes de: aprendizaje, inmigración, rechazo social, familias que no los apoyan, pobreza, y violencia.
+Todo estrés tiene un impacto, pero algunos niños lo llevan tan bien que este impacto se suaviza. El éxito de estos niños ha hecho que un objetivo en el campo del desarrollo sea fortalecer los potenciales del niño, no necesariamente eliminar los riesgos. En lugar de eliminar las experiencias negativas de la vida, una tarea imposible, es mejor saber de qué manera los niños afrontan situaciones estresantes, dejando atrás los problemas para volverse adultos exitosos.
+
+La resiliencia ha sido definida como un proceso dinámico que abarca la adaptación positiva dentro del contexto de la adversidad significativa.
+
+Las rutinas diarias son esenciales para sobrellevar el estrés. Un aspecto clave de las rutinas diarias como contribuyentes a la resiliencia es que el niño pueda tener sus propios amigos, actividades y logros sin el control de los padres. La interpretación de un niño puede determinar si una situación de estrés se volverá abrumadora; la capacidad de los niños para sobrellevar el estrés depende más de su valoración que de la naturaleza objetiva de las circunstancias. El factor más importante que ayuda al niño a enfrentar los problemas es el apoyo social que recibe.
+
+La fe en sí misma puede ser psicológicamente protectora, en parte porque ayuda a los niños a reinterpretar sus experiencias. La serie personalizada de creencias de los niños les ayuda a organizar su vida y a enfrentarse con sus problemas mundanos.
+
+Una intensa comprensión del niño mueve nuestro enfoque desde los problemas (divorcio, agresiones) hacia los valores (armonía familiar, comprensión social). De este modo, si los padres no está abrumados por la pobreza, los niños tampoco lo estarán. De namera similar, las buenas habilidades sociales y de procesamiento de la información protegerán al niño de ser un agresor o una víctima. De diversas formas, los niños en edad escolar buscan el crecimiento, la comprensión, la competencia, los amigos y la independencia; todo esto los ayuda a sobrellevar los problemas que inevitablemente encuentran.
+
+- Aunque la mayoría experimenta algún tipo de estrés, los niños de edad escolar tienden a ser resilientes. Muchos saben sobrellevar los problemas más importantes de: aprendizaje, inmigración, rechazo social, familias que no los apoyan, pobreza, y violencia.
 - En general, los niños se benefician con el apoyo social (tal vez de un amigo o un abuelo), con los valores naturales (inteligencia, una personalidad ganadora, una habilidad especial) y con las fortalezas personales (fe religiosa, una primera infancia estable). El camino innato hacia la capacitación y la independencia mantiene a la mayoría de los niños de edad escolar lejos de verse dominados por los problemas.
 
 ## Parte V: La adolescencia
